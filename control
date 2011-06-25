@@ -1,0 +1,9 @@
+Package: com.thezimm.SMSHideKeyboard
+Depends: mobilesubstrate
+Name: SMSHideKeyboard
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Tap a balloon and hide the keyboard!
+Author: Dan Zimmerman <daniel.zimmerman@me.com>
+Section: Tweaks
+dev: thezimm
